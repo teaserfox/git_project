@@ -1,7 +1,6 @@
-a = 5
-b = 5
-print(a + b)
+def summ_number():
+    print(5 + 5)
 
-d = 15
-c = 10
-print(d - c)
+
+def residual_number():
+   print(15 - 10)
